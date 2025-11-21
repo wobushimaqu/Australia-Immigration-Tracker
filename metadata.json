@@ -1,0 +1,5 @@
+{
+  "name": "AusVisa Track AI",
+  "description": "An intelligent dashboard for tracking Australian skilled migration invitation scores (EOI) with AI-powered insights.",
+  "requestFramePermissions": []
+}
